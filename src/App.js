@@ -20,9 +20,10 @@ const App = () => {
           <h3>Contact Info</h3>
           <p>Email: example@random.se</p>
           <p>Phone: 123-456789</p>
+          <p>Social media: <a target="_blank" href="www.google.com"> Social@media.account</a></p>
         </div>
         {/* Content for the left panel */}
-        <h2>Left Panel</h2>
+        <h2>This is all dummy info</h2>
       </div>
       <div className="right-panel">
         <Intro />
